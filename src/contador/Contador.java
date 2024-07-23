@@ -1,6 +1,5 @@
 package contador;
 
-import contador.timer.Cronometro;
 import contador.timer.TelaTimer;
 
 import java.awt.*;
