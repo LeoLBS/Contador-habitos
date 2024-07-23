@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Contador-habitos:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Contador_habitos_jar</output-path>
+    <root id="archive" name="Contador-habitos.jar">
+      <element id="module-output" name="Contador-habitos" />
+    </root>
+  </artifact>
+</component>
